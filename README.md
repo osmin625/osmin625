@@ -1,1 +1,1 @@
-| 24yo KyungBook univ. majoring in computer science.
+오승민, 시지, 24살, 
