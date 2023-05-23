@@ -2,8 +2,8 @@
 <h3>Omin, 오승민</h3>
 <h3>ML engineering, data science</h3>
   
-<h4>정보에 휘둘리지 않고, 정보를 다루는 사람이 되고자 합니다.</h4>
-<p>I want to be a person who handles information without being swayed by information.</p>
+<h4>정보를 다루는 사람이 되고자 합니다.</h4>
+<p>I want to be a person who handles information.</p>
 
 <h3>Skills</h3>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
